@@ -1,0 +1,240 @@
+@media screen and (min-width:320px) and (max-width:480px) {
+.mmg-txt {
+    text-align: center;
+    margin: 10px auto 22px;
+}
+.mmg-txt img {
+    margin:0px auto;
+}
+.bnnr-bottm-rounds {
+    position: static;
+}
+.std-strp3 {
+    display:none;
+}
+.intr-std-hdd {
+    bottom: 9%;
+}
+#intn-std .inne-hdd8 h1 {
+    font-size: 20px;
+}
+#intn-std .inne-hdd8 h2 {
+    font-size: 26px;
+}
+.dep-actv-hds li {
+    width: 100%;
+}
+#dep-act_1v .intr-lnk-itms h4 {
+    height: auto;
+}
+.back-30-9_4 {
+    text-align: center !important;
+}
+}
+@media screen and (min-width:481px) and (max-width:640px) {
+.mmg-txt {
+    text-align: center;
+    margin: 10px auto 22px;
+}
+.mmg-txt img {
+    margin:0px auto;
+}
+.bnnr-bottm-rounds {
+    position: static;
+}
+.std-strp3 {
+    display:none;
+}
+.intr-std-hdd {
+   bottom: 26px;
+}
+#intn-std .inne-hdd8 h1 {
+    font-size: 20px;
+}
+#intn-std .inne-hdd8 h2 {
+    font-size: 26px;
+}
+.dep-actv-hds li {
+    width: 100%;
+}
+#dep-act_1v .intr-lnk-itms h4 {
+    height: auto;
+}
+.back-30-9_4 {
+    text-align: center !important;
+}
+}
+@media screen and (min-width:641px) and (max-width:800px) {
+.mmg-txt {
+    text-align: center;
+    margin: 10px auto 22px;
+}
+.mmg-txt img {
+    margin:0px auto;
+}
+.bnnr-bottm-rounds {
+    position: relative;
+}
+.std-strp3 {
+    position: absolute;
+	bottom: 57px;
+}
+.intr-std-hdd {
+    bottom: 36px;
+    left: 8%;
+}	
+.dep-actv-hds li {
+    width: 50%;
+}
+.back-30-9_4 {
+    text-align: center !important;
+}
+}
+@media screen and (min-width:801px) and (max-width:1024px) {
+.bnnr-bottm-rounds {
+    position: relative;
+}
+.std-strp3 {
+    position: absolute;
+	bottom: 57px;
+}
+.intr-std-hdd {
+    bottom: 46px;
+}
+.intr-lnk-itms h4 {
+    height: 120px;
+}
+.dep-actv-hds li {
+    width: 50%;
+}
+}
+@media screen and (min-width:1025px) and (max-width:1100px) {
+.intr-std-hdd {
+    bottom: 44px;
+}
+.intr-lnk-itms h4 {
+    height: 91px;
+}
+.dep-actv-hds li {
+    width: 17%;
+}
+#dep-act_1v .intr-lnk-itms h4 {
+    height: 93px;
+}
+.std-strp3 {
+    bottom: 36px;
+}
+}
+@media screen and (min-width:1101px) and (max-width:1200px) {
+.intr-std-hdd {
+    bottom: 51px;
+}
+.std-strp3 {
+    bottom: 21px;
+}
+}
+@media screen and (min-width:1201px) and (max-width:1301px) {
+.intr-std-hdd {
+    bottom: 62px;
+    left: 7%;
+}
+.std-strp3 {
+    bottom: 4px;
+}
+}
+@media screen and (min-width:1302px) and (max-width:1390px) {
+.indicators-line > .carousel-indicators {
+    bottom: 34% !important;
+}
+.intr-std-hdd {
+    bottom: 62px;
+    left: 7%;
+}
+.intr-lnk-itms h4 {
+    height: 70px;
+}
+.std-strp3 {
+    bottom: -7px;
+}
+}
+@media screen and (min-width:1391px) and (max-width:1590px) {
+.indicators-line > .carousel-indicators {
+    bottom: 34% !important;
+}
+.std-strp3 {
+    bottom: -7px;
+}
+}
+@media only screen and (max-width: 800px) {
+
+#common-tbles table{
+	display:block;
+	text-align:left;
+	border:none;
+}
+#common-tbles thead {
+	display:block;
+	text-align:left;
+	border:none;
+}
+#common-tbles tbody {
+	display:block;
+	text-align:left;
+	border:none;
+}
+#common-tbles th {
+	display:block;
+	text-align:left;
+	border:none;
+}
+#common-tbles td {
+	display:block;
+	text-align:left;
+	border:none;
+}
+#common-tbles tr {
+	display:block;
+	text-align:left;
+	border:none;
+}
+
+#common-tbles thead tr {
+	position:absolute;
+	top:-9999px;
+	left:-9999px;
+}
+#common-tbles tr {
+	border:1px solid #ccc;
+}
+#common-tbles td {
+	border:none;
+	border-bottom:1px solid #eee;
+	position:relative;
+	padding-left:50% !important;
+	white-space:normal;
+	text-align:left;
+}
+#common-tbles td {
+    border: none;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    padding-left: 50% !important;
+    white-space: normal;
+    text-align: left;
+}
+#common-tbles tr {
+    border: 1px solid #ccc;
+    font-size: 14px;
+}
+#common-tbles td:before {
+	position:absolute;
+	top:6px;
+	left:6px;
+	width:45%;
+	padding-right:10px;
+	white-space:normal;
+	text-align:left;
+	content:attr(data-title)
+}
+
+}
